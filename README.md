@@ -1,4 +1,4 @@
-# Bibliodados 📚
+# Marcelo Diniz / Bibliodados 📚
 
 ### Biblioteconomia, Ciência da Informação e Inteligência Artificial
 
