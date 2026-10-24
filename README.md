@@ -1,4 +1,4 @@
-# Marcelo Diniz / Bibliodados 📚
+# Marcelo Neves Diniz 📚
 
 ### Biblioteconomia, Ciência da Informação e Inteligência Artificial
 
@@ -9,6 +9,15 @@ Bem-vindo ao **Bibliodados**, um espaço dedicado ao desenvolvimento e compartil
 Sou **Marcelo Neves Diniz**, bibliotecário e mestre em Propriedade Intelectual.
 
 Tenho interesse na aplicação de tecnologias digitais à Biblioteconomia, à pesquisa científica, à educação e à gestão da informação.
+
+Atuo na **SES-TO / ETSUS-TO**, em **Palmas, Tocantins, Brasil**.
+
+## Currículos e contato
+
+- [Currículo Lattes](http://lattes.cnpq.br/3825140981050471)
+- [ORCID: 0000-0002-2840-853X](https://orcid.org/0000-0002-2840-853X)
+- [LinkedIn](https://www.linkedin.com/in/marcelo-diniz-612a1921/)
+- [E-mail institucional](mailto:marcelo.diniz@mail.uft.edu.br)
 
 ## Áreas de interesse
 
